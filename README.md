@@ -1,12 +1,12 @@
-# cookie_clicker
+# COOKIE CLICKER 🍪
 
 Voici un simple projet de cookie clicker avec Vue et Vuex! J'ai utilisé des notions de POO et de store (store, getters, setters, mutations, actions, getters)
 
-## Recommended IDE Setup
+## IDE Setup Recommendé
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## Pour customiser la configuation
 
 See [Vite Configuration Reference](https://vite.dev/config/).
 
@@ -16,13 +16,13 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Server localhost 
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compiler et minimiser pour la prod'
 
 ```sh
 npm run build
